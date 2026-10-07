@@ -1,0 +1,29 @@
+First Person (a WorldBox mod)
+Copyright (c) 2026 s3cond2. All rights reserved.
+
+You may download this mod for free and use it to play WorldBox. You may also
+show it in videos, streams and screenshots, including monetized ones.
+
+Without written permission from the author you may not:
+- re-upload, mirror or otherwise redistribute the mod or any of its files (the
+  DLL, the source code, the 3D models or other assets), changed or unchanged;
+- publish modified versions of the mod, or use its code, models or assets in
+  other projects;
+- sell the mod, put it behind a paywall, or charge for access to it.
+
+Links to the official download page are always welcome.
+
+The mod is free. Donations (https://ko-fi.com/worldfall) are optional and do
+not unlock any features or early access.
+
+THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE MOD OR ITS USE.
+
+This is an unofficial fan mod. It is not affiliated with or endorsed by
+WorldBox or its developer, Maxim Karpenko. WorldBox, and the game content the
+mod shows or is based on (its creatures, buildings, names and sprites), belong
+to their owner. The mod contains no WorldBox code or game files: it runs on the
+copy of the game installed on your own computer.

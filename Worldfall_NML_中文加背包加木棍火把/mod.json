@@ -1,0 +1,9 @@
+{
+  "name": "Worldfall（简体中文）",
+  "author": "s3cond2",
+  "version": "1.0.0",
+  "description": "附身任何生物，以第一人称探索三维世界。G 附身，鼠标环顾，WASD 移动，左键攻击，E 交谈或进入。F1 查看操作说明，F2 打开设置。简体中文汉化版。",
+  "GUID": "s3cond2.worldfall",
+  "iconPath": "icon.png",
+  "RepoUrl": "https://worldfall3d.com"
+}
